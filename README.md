@@ -9,3 +9,5 @@ In this repository, you'll find an example of our solar system made with unity, 
 		- Earth's moon
 - Position them in a logical way in size and distance.
 - Make the sun the parent of the other planets and, in the same way, make the earth the parent of moon.
+
+![](Readme-src/M1S1-solar-system.gif)
